@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\vs_codigo\\escolaTrabalhos\\AndereTrabalhos\\C#\\diffProduto\\diffProduto.csproj",
+      "projectUniqueName": "C:\\VSCodigo\\escolaTrabalhos\\AndereTrabalhos\\C#\\diffProduto\\diffProduto.csproj",
       "projectName": "diffProduto",
-      "projectPath": "C:\\vs_codigo\\escolaTrabalhos\\AndereTrabalhos\\C#\\diffProduto\\diffProduto.csproj",
+      "projectPath": "C:\\VSCodigo\\escolaTrabalhos\\AndereTrabalhos\\C#\\diffProduto\\diffProduto.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\vs_codigo\\escolaTrabalhos\\AndereTrabalhos\\C#\\diffProduto\\obj\\",
+      "outputPath": "C:\\VSCodigo\\escolaTrabalhos\\AndereTrabalhos\\C#\\diffProduto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\vs_codigo\\escolaTrabalhos\\AndereTrabalhos\\C#\\raioCirculo\\raioCirculo.csproj": {}
+    "C:\\VSCodigo\\escolaTrabalhos\\AndereTrabalhos\\C#\\raioCirculo\\raioCirculo.csproj": {}
   },
   "projects": {
-    "C:\\vs_codigo\\escolaTrabalhos\\AndereTrabalhos\\C#\\raioCirculo\\raioCirculo.csproj": {
+    "C:\\VSCodigo\\escolaTrabalhos\\AndereTrabalhos\\C#\\raioCirculo\\raioCirculo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\vs_codigo\\escolaTrabalhos\\AndereTrabalhos\\C#\\raioCirculo\\raioCirculo.csproj",
+        "projectUniqueName": "C:\\VSCodigo\\escolaTrabalhos\\AndereTrabalhos\\C#\\raioCirculo\\raioCirculo.csproj",
         "projectName": "raioCirculo",
-        "projectPath": "C:\\vs_codigo\\escolaTrabalhos\\AndereTrabalhos\\C#\\raioCirculo\\raioCirculo.csproj",
+        "projectPath": "C:\\VSCodigo\\escolaTrabalhos\\AndereTrabalhos\\C#\\raioCirculo\\raioCirculo.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\vs_codigo\\escolaTrabalhos\\AndereTrabalhos\\C#\\raioCirculo\\obj\\",
+        "outputPath": "C:\\VSCodigo\\escolaTrabalhos\\AndereTrabalhos\\C#\\raioCirculo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
