@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("raioCirculo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73621161908f412e0188a19b78f82edf5954cf78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03e1cc50392c2aa9318635f5144f41b3da1d5641")]
 [assembly: System.Reflection.AssemblyProductAttribute("raioCirculo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("raioCirculo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
