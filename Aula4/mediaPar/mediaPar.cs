@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics.Metrics;
 using System.Net.NetworkInformation;
+using System.Security.Cryptography.X509Certificates;
 namespace Tabuada
 {
     class Programinha
@@ -11,12 +12,13 @@ namespace Tabuada
         static void Main()
         {
             falar("Defina a quantidade de numeros da sequencia: ");
+            int counter = 0;
             int quant = ouvirP();
             double soma = 0;
-            int counter;
+            int impar = 0;
 
 
-            for (counter = 0; counter < quant;)
+            while (counter < quant)
             {
                 falar("Numero par: ");
                 double num = ouvir2();
@@ -24,15 +26,16 @@ namespace Tabuada
                 {
                     counter++;
                     soma += num;
-
                 }
                 else
                 {
-                    falar("Não pode ser impar >:[\n");
+                    counter++;
+                    impar--;
                 }
+
             }
 
-            falar($"A média é de {soma / counter}");
+            falar($"A média é de {soma / (quant + impar)}");
 
         }
     }
