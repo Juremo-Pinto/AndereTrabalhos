@@ -14,9 +14,9 @@ namespace Tabuada
             int count;
             int num = 0;
 
-            for(count = 50; count < 501; count++)
+            for (count = 50; count < 501; count++)
             {
-                if(count %3 == 0 && count %2 != 0)
+                if (count % 3 == 0 && count % 2 != 0)
                 {
                     num += count;
                 }
