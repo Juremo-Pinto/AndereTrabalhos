@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gambleNum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71ad6f8c4fb1cc5ca64a7f85cc9ff6f3c2f5aa47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+586611144688d87890caf661859e22d35e461b95")]
 [assembly: System.Reflection.AssemblyProductAttribute("gambleNum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gambleNum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

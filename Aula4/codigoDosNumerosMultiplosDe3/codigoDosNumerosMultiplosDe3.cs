@@ -12,8 +12,16 @@ namespace Tabuada
         static void Main()
         {
             int count;
+            int num = 0;
 
-            for(count = 50; )
+            for(count = 50; count < 501; count++)
+            {
+                if(count %3 == 0 && count %2 != 0)
+                {
+                    num += count;
+                }
+            }
+            falar($"Tá ai ó: {num}");
 
         }
     }
