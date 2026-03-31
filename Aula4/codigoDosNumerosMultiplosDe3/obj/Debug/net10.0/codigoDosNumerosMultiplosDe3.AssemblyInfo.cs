@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("codigoDosNumerosMultiplosDe3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eda38c61545ccfba892e607c17bc98136e3576da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a8044fe3536b790a8636c18ddc7b888907888cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("codigoDosNumerosMultiplosDe3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("codigoDosNumerosMultiplosDe3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
