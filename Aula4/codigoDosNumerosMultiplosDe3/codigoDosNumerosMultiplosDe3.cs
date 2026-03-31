@@ -21,7 +21,7 @@ namespace Tabuada
                     num += count;
                 }
             }
-            falar($"Tá ai ó: {num}");
+            falar($"É esse o numero que vc queria? \n \n{num}");
 
         }
     }

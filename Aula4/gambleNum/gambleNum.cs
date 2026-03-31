@@ -7,7 +7,7 @@ namespace Tabuada
     class Programinha
     {
         static void falar(string m) => Console.Write(m);
-        static int ouvirP() => int.Parse(Console.ReadLine());
+        static int ouvir32() => Convert.ToInt32(Console.ReadLine());
         static double ouvir2() => Convert.ToDouble(Console.ReadLine());
         static void Main()
         {
@@ -16,13 +16,23 @@ namespace Tabuada
             Random rnd = new Random();
             int num = rnd.Next(1, 101);
             falar("Ache o numero de 1 a 100: ");
-            while (!EBA)
+            do
             {
 
-                int guess = Convert.ToInt32(Console.ReadLine());
+                int guess = ouvir32();
                 stupid += 1;
 
-                if (guess < num)
+                if (guess > 101)
+                {
+
+                    falar("É abaixo de 100 abestalhado!\n");
+                }
+                else if (guess < 1)
+                {
+
+                    falar("É acima de 1 abestalhado!\n");
+                }
+                else if (guess < num)
                 {
 
                     falar("Errou pra baixo\n");
@@ -32,11 +42,6 @@ namespace Tabuada
 
                     falar("Errou pra cima\n");
                 }
-                else if (guess > 101)
-                {
-
-                    falar("É abaixo de 100 abestalhado!\n");
-                }
                 else
                 {
 
@@ -45,7 +50,7 @@ namespace Tabuada
                     EBA = true;
                 }
 
-            }
+            } while (!EBA);
 
         }
     }
