@@ -68,6 +68,9 @@ Veja o arquivo [`LICENSE`](./LICENSE) para mais informações.
 ---
 
 <p align="center">
-  <i>I am become programemr,</i>
-  <i>maker of code.</i>
+  <i>I am become programmer,</i>
 </p>
+<p align="center">
+  <i>maker of codes</i>
+</p>
+
