@@ -71,6 +71,6 @@ Veja o arquivo [`LICENSE`](./LICENSE) para mais informações.
   <i>I am become programmer,</i>
 </p>
 <p align="center">
-  <i>maker of codes</i>
+  <i>maker of code.</i>
 </p>
 
